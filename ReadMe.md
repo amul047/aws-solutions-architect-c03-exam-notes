@@ -44,4 +44,9 @@ dynamodb rcu 4kb
 OAI s3
 s3 stotrage clases
 sqs long polling
+![unnamed](https://user-images.githubusercontent.com/50348897/228982297-fb32f![unnamed](https://user-images.githubusercontent.com/50348897/228982333-35b4226d-5971-4272-b0e2-e46e186373f0.png)
+323-2fde-40f8-8fc1-ff4affb9f907.jpg)
+
+
+![Uploading unnamed.png…]()
 
