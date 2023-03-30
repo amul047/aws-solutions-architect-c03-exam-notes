@@ -42,7 +42,6 @@ OAI s3
 s3 stotrage clases
 sqs long polling![unnamed](https://user-images.githubusercontent.com/50348897/228982358-c8cbbae1-9efb-4498-aa5f-ea3858d4f13a.png)
 
-![unnamed](https://user-images.githubusercontent.com/50348897/228982370-14715f27-200f-486e-b34e-9de8c7f5790e.jpg)
 
 ![image](https://user-images.githubusercontent.com/50348897/228983838-90b86432-ff8e-48de-9f64-7597bdec332c.png)
 
