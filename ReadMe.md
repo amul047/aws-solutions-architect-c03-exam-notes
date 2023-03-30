@@ -47,3 +47,4 @@ sqs long polling![unnamed](https://user-images.githubusercontent.com/50348897/22
 
 ![image](https://user-images.githubusercontent.com/50348897/228986535-0cfffb29-2315-41e1-af49-4c2f6650f14a.png)
 
+![image](https://user-images.githubusercontent.com/50348897/228990114-e675ecfe-1ec8-4b2f-be71-43dc1fc14c71.png)
