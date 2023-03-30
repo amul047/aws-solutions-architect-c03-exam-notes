@@ -12,7 +12,7 @@
 - I have used https://learn.cantrill.io/ as my primary resource for learning, based on recommendation of my ex-colleague and friend [Shawn Jiang](https://www.linkedin.com/in/shawnjiang/). I would reccomend it highly too now, as Adrian (the author) not only covers the exam, but uses nice diagrams and concise explanations in shorter than 20 minute lessons.
 
 ## Let's do it!
-learnt he ec2 class names... instanace type names - acronyms?
+
 s3 object size max 5TB
 RDS for sql server has native mirroring feature
 hibernate ec2 - keep processes and RAm contents in EBS, but instance store is wiped like a stop/start
@@ -46,4 +46,5 @@ sqs long polling![unnamed](https://user-images.githubusercontent.com/50348897/22
 
 ![image](https://user-images.githubusercontent.com/50348897/228983838-90b86432-ff8e-48de-9f64-7597bdec332c.png)
 
+![image](https://user-images.githubusercontent.com/50348897/228986535-0cfffb29-2315-41e1-af49-4c2f6650f14a.png)
 
