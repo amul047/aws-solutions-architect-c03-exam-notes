@@ -7,6 +7,6 @@
 - Exam is scheduled for next week, and these will be my last shrinking set of notes before I sit it.
 
 **Acknowledgements:**
-- I have used https://learn.cantrill.io/ as my primary resource for this certification, based on recommendation of my ex-colleague and friend [Shawn Jiang](https://www.linkedin.com/in/shawnjiang/).
+- I have used https://learn.cantrill.io/ as my primary resource for learning, based on recommendation of my ex-colleague and friend [Shawn Jiang](https://www.linkedin.com/in/shawnjiang/).
 
 **Let's do it!**
