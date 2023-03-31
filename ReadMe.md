@@ -58,7 +58,7 @@ sqs long polling
 | Max number of objects | unlimited |
 | Max size of 1 object | 5 TB |
 | Max size of 1 upload without multipart / Max size of 1 part of multipart  | 5 GB |
-| Size to consider multi-part | 100 MB |
+| Size to consider multi-part | > 100 MB |
 | Min size of 1 part of multipart | 5 MB |
 | Max number of parts in multipart | 10000 |
 
