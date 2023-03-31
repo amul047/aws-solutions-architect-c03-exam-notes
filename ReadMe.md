@@ -40,7 +40,7 @@ vpc connectivity
 dynamodb rcu 4kb
 OAI s3
 s3 stotrage clases
-sqs long polling![unnamed](https://user-images.githubusercontent.com/50348897/228982358-c8cbbae1-9efb-4498-aa5f-ea3858d4f13a.png)
+sqs long polling
 
 
 ![image](https://user-images.githubusercontent.com/50348897/228983838-90b86432-ff8e-48de-9f64-7597bdec332c.png)
@@ -48,3 +48,6 @@ sqs long polling![unnamed](https://user-images.githubusercontent.com/50348897/22
 ![image](https://user-images.githubusercontent.com/50348897/228986535-0cfffb29-2315-41e1-af49-4c2f6650f14a.png)
 
 ![image](https://user-images.githubusercontent.com/50348897/228990114-e675ecfe-1ec8-4b2f-be71-43dc1fc14c71.png)
+
+![image](https://user-images.githubusercontent.com/50348897/228992213-10c461d6-4732-46c2-b840-893fec26068b.png)
+
