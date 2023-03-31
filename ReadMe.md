@@ -51,3 +51,15 @@ sqs long polling
 
 ![image](https://user-images.githubusercontent.com/50348897/228992213-10c461d6-4732-46c2-b840-893fec26068b.png)
 
+### S3
+
+|  | Limit |
+|-------|-------|
+| Max number of objects | unlimited |
+| Max size of 1 object | 5 TB |
+| Max size of 1 upload without multipart / Max size of 1 part of multipart  | 5 GB |
+| Size to consider multi-part | 100 MB |
+| Min size of 1 part of multipart | 5 MB |
+| Max number of parts in multipart | 10000 |
+
+
