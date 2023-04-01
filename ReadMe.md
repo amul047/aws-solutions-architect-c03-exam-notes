@@ -13,14 +13,8 @@
 
 ## Let's do it!
 
-s3 object size max 5TB
-RDS for sql server has native mirroring feature
-hibernate ec2 - keep processes and RAm contents in EBS, but instance store is wiped like a stop/start
 iot greengradd and amazont ime strwma
-encrypt ec2
-db billing?
-gateway load balancers
-ec2 costs
+
 Domain 1: Design Secure Architectures
 CloudHSM
 FIPS 140-2 Level 3 is CloudHSM, Level 2 is KMS
