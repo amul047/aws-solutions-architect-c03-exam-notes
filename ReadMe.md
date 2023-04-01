@@ -51,6 +51,8 @@ sqs long polling
 
 ![image](https://user-images.githubusercontent.com/50348897/228992213-10c461d6-4732-46c2-b840-893fec26068b.png)
 
+![image](https://user-images.githubusercontent.com/50348897/229266311-65644fbe-cd81-43d7-9280-cc62dfc538e4.png)
+
 ### S3
 
 |  | Limit |
