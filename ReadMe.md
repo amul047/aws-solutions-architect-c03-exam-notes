@@ -53,6 +53,8 @@ sqs long polling
 
 ![image](https://user-images.githubusercontent.com/50348897/229266311-65644fbe-cd81-43d7-9280-cc62dfc538e4.png)
 
+### DR
+
 ![image](https://user-images.githubusercontent.com/50348897/229266830-4ec26a8c-3ae9-4fd0-a0de-c8fe6a425809.png)
 
 ### S3
