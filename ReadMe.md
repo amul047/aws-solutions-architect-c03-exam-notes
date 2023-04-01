@@ -13,28 +13,22 @@
 
 ## Let's do it!
 
-iot greengradd and amazont ime strwma
-
-Domain 1: Design Secure Architectures
-CloudHSM
-FIPS 140-2 Level 3 is CloudHSM, Level 2 is KMS
-CloudHSM accessed via standard crpto APis like PKCS#11,JCE and CryptoNG unlike KMS
-Secrets manager [saves and] rotates secrets unlike SSM parameter store
 Domain 2: Design Resilient Architectures
-FIFO delivers exactly once
 FIFO quotes must have a .FIFO suffix in name
+
 Domain 3: Design High-Performing Architectures
 AWS s3 cp cli command automatically use multi-part upload as necessary
-AWS Privat link setup connection
+AWS Private link setup connection
+
 Domain 4: Design Cost-Optimized Architectures
 AWS Systems Manager Session manager cost effective for dev access
 cluster placement group numbers
+
 ‘maintenance’ page for when the application is offline or has failed. route53?
-vpc connectivity
+
 dynamodb rcu 4kb
 OAI s3
-s3 stotrage clases
-sqs long polling
+
 
 
 ![image](https://user-images.githubusercontent.com/50348897/228983838-90b86432-ff8e-48de-9f64-7597bdec332c.png)
