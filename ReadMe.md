@@ -13,11 +13,6 @@
 
 ## Let's do it!
 
-Domain 2: Design Resilient Architectures
-FIFO quotes must have a .FIFO suffix in name
-
-Domain 3: Design High-Performing Architectures
-AWS s3 cp cli command automatically use multi-part upload as necessary
 AWS Private link setup connection
 
 Domain 4: Design Cost-Optimized Architectures
