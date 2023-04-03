@@ -1,4 +1,4 @@
-# AWS Solutions Architect Associate
+# AWS Solutions Architect Associate Exam Notes
 
 ## Context
 - [I am a software architect](https://www.linkedin.com/in/aamirmulla/) having worked primarily in the application development space, not networking. 
