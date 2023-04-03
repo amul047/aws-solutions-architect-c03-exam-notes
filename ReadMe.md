@@ -17,11 +17,14 @@ AWS Private link setup connection
 
 Domain 4: Design Cost-Optimized Architectures
 AWS Systems Manager Session manager cost effective for dev access
-cluster placement group numbers
 
 dynamodb rcu 4kb
 
-
+### Placement group limits
+- 500 per account per region
+- 7 per AZ if spread
+- 7 partitions per AZ if partition
+- account limits only if cluster
 
 ![image](https://user-images.githubusercontent.com/50348897/228983838-90b86432-ff8e-48de-9f64-7597bdec332c.png)
 
