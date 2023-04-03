@@ -13,9 +13,6 @@
 
 ## Let's do it!
 
-AWS Private link setup connection
-
-Domain 4: Design Cost-Optimized Architectures
 AWS Systems Manager Session manager cost effective for dev access
 
 dynamodb rcu 4kb
