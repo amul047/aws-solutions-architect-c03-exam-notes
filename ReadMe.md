@@ -19,10 +19,7 @@ Domain 4: Design Cost-Optimized Architectures
 AWS Systems Manager Session manager cost effective for dev access
 cluster placement group numbers
 
-‘maintenance’ page for when the application is offline or has failed. route53?
-
 dynamodb rcu 4kb
-OAI s3
 
 
 
